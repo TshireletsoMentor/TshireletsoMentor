@@ -1,4 +1,4 @@
-[header]![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)![header]
+![Alt Text](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif)
 
 
 <p align='center'>
