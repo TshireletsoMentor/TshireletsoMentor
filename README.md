@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif)
+[![Header]![Alt Text](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif) "Header")](https://some-url.dev/)
 
 
 <p align='center'>
