@@ -1,6 +1,3 @@
-<span text-align:center><img height="250" width="800" align="center" src="https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif" /></span>
-
-
 <p align='center'>
   
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
