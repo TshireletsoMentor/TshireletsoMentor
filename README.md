@@ -1,4 +1,4 @@
-[![Header](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif "Header")](https://some-url.dev/)
+[![Header](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif "Header" | width=100)](https://some-url.dev/)
 
 
 <p align='center'>
