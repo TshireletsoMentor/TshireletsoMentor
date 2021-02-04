@@ -1,4 +1,4 @@
-<img height="300" width="1000" align="center" src="https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif" />
+<img height="250" width="800" align="center" src="https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif" />
 
 
 <p align='center'>
