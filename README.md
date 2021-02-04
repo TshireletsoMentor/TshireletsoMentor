@@ -2,7 +2,7 @@
 <h2 align='center' color="green">
   "Talk Is Cheap, Show me the code"- Linus Torvalds
 </h2>
-[![Header](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif "Header")](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif)
+[![Header](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif "Header")]()
 
 
 <p align='center'>
