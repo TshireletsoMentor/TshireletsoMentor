@@ -1,4 +1,4 @@
-![](https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif | width=100)
+<img src="https://github.com/TshireletsoMentor/TshireletsoMentor/blob/main/ezgif.com-gif-maker.gif" />
 
 
 <p align='center'>
