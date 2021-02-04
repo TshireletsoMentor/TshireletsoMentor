@@ -39,12 +39,13 @@
     <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TshireletsoMentor&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
 </p>
+-->
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:tmentor@student.wethinkcode.com'>tmentor@student.wethinkcode.com</a>
+  📫 How to reach me: <a href='mailto:tmentor@student.wethinkcode.co.za'>tmentor@student.wethinkcode.co.za</a>
 </p>
 
 <details>
