@@ -1,8 +1,3 @@
-[header
-<h2 align='center' color="green">
-  "Talk Is Cheap, Show me the code"- Linus Torvalds
-</h2>
-![header]
 ![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
