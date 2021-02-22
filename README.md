@@ -16,7 +16,7 @@
     <a href="#" width="350"></a>
 </p>
 <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TshireletsoMentor" width="350" data-canonical-src="https://github-readme-stats.vercel.app/api?username=TshireletsoMentor&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width:100%;"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=TshireletsoMentor&theme=dark" width="350" data-canonical-src="https://github-readme-stats.vercel.app/api?username=TshireletsoMentor&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width:100%;"></a>
 </p>
 
 <h3 align='center'>💻 My workspace</h3>
