@@ -38,7 +38,6 @@
 -->
 <p align='center'>
   <img src='https://www.codewars.com/users/TshireletsoMentor/badges/small' />
-  <iframe src="https://hackerrank-badge.herokuapp.com/TshireletsoMentor" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 </p>
 
 <p align='center'>
