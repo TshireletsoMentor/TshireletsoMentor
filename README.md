@@ -53,7 +53,8 @@
 <img align="left" src="https://img.shields.io/badge/JS-javascript-yellow" />
 <img align="left" src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/php -8a93be?logo=php&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/NodeJS -black?logo=nodejs&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/NodeJS -black?logo=node.js&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/React -black?logo=react&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 
 <br/>
