@@ -49,9 +49,10 @@
 ## Experience
 
 <img align="left" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
-<img align="left" src="https://img.shields.io/badge/C-239120?logo=c&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/C-blue?logo=c&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JS-javascript-yellow" />
 <img align="left" src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/php -8a93be?logo=php&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
 
 <br/>
