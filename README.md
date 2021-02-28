@@ -37,7 +37,7 @@
 </p>
 -->
 <p align='center'>
-  <img src='https://www.codewars.com/users/TshireletsoMentor/badges/small' />
+  <img src='https://www.codewars.com/users/TshireletsoMentor/badges/large' />
 </p>
 
 <p align='center'>
