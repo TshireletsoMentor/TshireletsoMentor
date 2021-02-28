@@ -52,7 +52,7 @@
 <img align="left" src="https://img.shields.io/badge/Github-181717?logo=github&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/JS-javascript-yellow" />
-<img align="left" src="https://img.shields.io/badge/python-python-blue?logopython&logoColor=white" />
+<img align="left" src="https://img.shields.io/badge/python-blue?logo=python&logoColor=white" />
 
 
 <br/>
